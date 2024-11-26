@@ -17,7 +17,6 @@ A simulation project for a Smart Parking System integrating Mobile App, ESP32 mi
   - [**Future Enhancements**](#future-enhancements)
   - [**Contributors**](#contributors)
   - [**Contributing**](#contributing)
-  - [**License**](#license)
 
 ---
 
@@ -118,9 +117,5 @@ We welcome contributions to enhance the Smart Parking System. To contribute:
 
 ---
 
-## **License**
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project in accordance with the license terms.
-
----
 
 Thank you for exploring the **Smart Parking System** project. For any queries or feedback, feel free to open an issue or contact us.
