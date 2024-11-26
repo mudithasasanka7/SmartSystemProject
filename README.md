@@ -105,8 +105,8 @@ This project was collaboratively developed by the following team members:
 
 - [Lakmal][SEU_IS_18_ICT_026](https://www.linkedin.com/in/lakmal133571bb/)
 - [Sandun][SEU_IS_18_ICT_004](https://www.linkedin.com/in/sandun-dilshan-783b1b201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Muditha][SEU_IS_18_ICT_69]()
-- [Kavindu][SEU_IS_18_ICT_068]()
+- [Muditha][SEU_IS_18_ICT_69](https://www.linkedin.com/in/muditha-sasanka-kodikara-b5473a322/)
+- [Kavindu][SEU_IS_18_ICT_068](https://www.linkedin.com/in/kavindu-rajapaksha-2b474b1b8/)
 
 
 ## **Contributing**
